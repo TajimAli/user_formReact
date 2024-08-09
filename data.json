@@ -1,0 +1,63 @@
+{
+    "countries": [
+      {
+        "name": "America",
+        "states": [
+          {
+            "name": "California",
+            "cities": ["Los Angeles", "San Francisco", "San Diego", "Fresno", "Oakland"]
+          },
+          {
+            "name": "Texas",
+            "cities": ["Houston", "Dallas", "Austin", "Fort Worth", "Amarillo"]
+          },
+          {
+            "name": "Florida",
+            "cities": ["Miami", "Tampa", "Orlando", "Destin", "Pensacola"]
+          }
+        ]
+      },
+      {
+        "name": "Japan",
+        "states": [
+          {
+            "name": "Miyagi",
+            "cities": ["Kakuda", "Tome", "Sendai", "Natori", "Watari"]
+          },
+          {
+            "name": "Fukui",
+            "cities": ["Awara", "Sakai", "Katsuyama", "Maruoka Castle", "Nishiyama Park"]
+          },
+          {
+            "name": "Chiba",
+            "cities": ["Abiko", "Noda", "Sosa", "Mobara", "Sakae"]
+          },
+          {
+            "name": "Hyogo ",
+            "cities": ["Himeji", "Kobe", "Akashi", "Amagasaki", "Sumoto"]
+          }
+        ]
+      },
+      {
+        "name": "India",
+        "states": [
+          {
+            "name": "Maharashtra",
+            "cities": ["Mumbai", "Pune", "Nagpur", "Wardha", "Hinganghat", "Latur"]
+          },
+          {
+            "name": "Karnataka",
+            "cities": ["Bangalore", "Mysore", "Mangalore"]
+          },
+          {
+            "name": "Punjab",
+            "cities": ["Mohali", "Bathinda", "Patiala", "Ludhiana"]
+          },
+          {
+            "name": "Uttar Pradesh",
+            "cities": ["Muzaffarnagar","Meerut","Lucknow", "Agra", "Varanasi"]
+          }
+        ]
+      }
+    ]
+  }
